@@ -128,67 +128,67 @@ http://192.168.10.1:4022/rtp/232.84.1.245:10344
 http://192.168.10.1:4022/rtp/232.84.1.169:8988
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 http://192.168.10.1:4022/rtp/232.84.1.143:8832
-#------------------------VTC------------------------#
-#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.2.173:10846
-#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.3.102:10846
-#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.1.81:8460
-#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.2.149:10714
-#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.3.147:10714
-#EXTINF:0 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.3.136:10720
-#EXTINF:0 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD (HD 8Mbps)
-http://192.168.10.1:4022/rtp/232.84.3.58:11704
-#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.2.151:10726
-#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.3.120:10726
-#EXTINF:0 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.3.141:10732
-#EXTINF:0 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.3.87:11530
-#EXTINF:0 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://i.imgur.com/wnNBcEo.png",VTC13 (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.1.74:8418
-#EXTINF:0 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.3.216:11218
-#EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD (HD 8.5Mbps)
-http://192.168.10.1:4022/rtp/232.84.3.98:11458
-#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
-http://192.168.10.1:4022/rtp/232.84.1.30:8154
-#EXTINF:0 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
-http://192.168.10.1:4022/rtp/232.84.1.57:8322
-#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
-http://192.168.10.1:4022/rtp/232.84.1.60:8232
-#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
-http://192.168.10.1:4022/rtp/232.84.2.37:10630
-#EXTINF:0 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
-http://192.168.10.1:4022/rtp/232.84.2.38:10636
-#EXTINF:0 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
-http://192.168.10.1:4022/rtp/232.84.1.58:8328
-#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
-http://192.168.10.1:4022/rtp/232.84.1.213:9252
-#EXTINF:0 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
-http://192.168.10.1:4022/rtp/232.84.2.39:10642
-#EXTINF:0 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
-http://192.168.10.1:4022/rtp/232.84.1.59:8334
-#EXTINF:0 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
-http://192.168.10.1:4022/rtp/232.84.1.214:9258
-#EXTINF:0 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
-http://192.168.10.1:4022/rtp/232.84.1.61:8340
-#EXTINF:0 tvg-id="vtc12dhd" group-title="VTC" tvg-logo="https://i.imgur.com/YawrTlw.png",VTC12
-http://192.168.10.1:4022/rtp/232.84.3.193:11080
-#EXTINF:0 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://i.imgur.com/wnNBcEo.png",VTC13
-http://192.168.10.1:4022/rtp/232.84.1.62:8346
-#EXTINF:0 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
-http://192.168.10.1:4022/rtp/232.84.1.216:9270
-#EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
-http://192.168.10.1:4022/rtp/232.84.1.215:9264
-#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
-http://192.168.10.1:4022/rtp/232.84.1.46:8256
+#------------------------SCTV------------------------#
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.34:11848
+
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV (MyTV)
+[http://192.168.1.1](http://192.168.10.1):4022/rtp/232.84.3.33:11854
+
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.32:11860
+
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/SCTV6_logo.png/revision/latest?cb=20200409033954&path-prefix=vi",SCTV6
+#EXTVLCOPT:http-user-agent="dovietsy"
+#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/index.m3u8|Referer=http://sctvonline.vn/
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.31:11866
+
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg", SCTV7 HD (MyTV)
+http://192.168.10.1.1:4022/rtp/232.84.3.29:11878
+
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/SCTV8.jpg", SCTV8 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.28:11884
+
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.27:11890
+
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.26:11896
+
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg", SCTV12 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.25:11902
+
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.23:11914
+
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.21:11926
+
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.19:11938
+
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg", SCTV19 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.18:11944
+
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg", SCTV20 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.17:11950
+
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg", SCTV21 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.16:11956
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD
+
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.14:11968
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.22:11920
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.20:11932
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD (MyTV)
+http://192.168.10.1:4022/rtp/232.84.3.15:11962
 #------------------------HTV/HTVC------------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 6Mbps)
 http://192.168.10.1:4022/rtp/232.84.3.57:11710
