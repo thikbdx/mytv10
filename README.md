@@ -133,7 +133,7 @@ http://192.168.10.1:4022/rtp/232.84.1.143:8832
 http://192.168.10.1:4022/rtp/232.84.3.34:11848
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV (MyTV)
-[http://192.168.1.1](http://192.168.10.1):4022/rtp/232.84.3.33:11854
+http://192.168.10.1:4022/rtp/232.84.3.33:11854
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 HD (MyTV)
 http://192.168.10.1:4022/rtp/232.84.3.32:11860
